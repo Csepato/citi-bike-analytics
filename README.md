@@ -10,10 +10,8 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. The main aim of this project is to assist city officials, public administrators, and heads of New York City departments to publicize and improve the city program through regular reports. 
 
 ## Scope
-Data was collected from the Citi Bike Trip History Logs for Quarter 1 and 2 of 2020 ( 1 January to 30 June).
+Data was collected from the [Citi Bike Trip History Logs](https://www.citibikenyc.com/system-data) for Quarter 1 and 2 of 2020 ( 1 January to 30 June).
 
-## Data Source
-From [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 ## Visualizations
 **Dashboard 1**
