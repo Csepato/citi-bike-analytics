@@ -43,3 +43,9 @@ As of 30 June 2020,Grove st Path is  the most popular station to start and end a
 Grove st Path is the most popular station to start and end a journey based on the map view of stations with the highest number of trips indicated by the size of the circle.   
 
 ![Popular stations mapview](images/Popular-stations.png)
+
+## Sources
+* [Tableau Public Edition](https://public.tableau.com/en-us/s/download)
+
+* [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike)
+* [Citi Bike Data](https://www.citibikenyc.com/system-data)
