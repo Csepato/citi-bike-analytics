@@ -29,11 +29,17 @@ There was a sharp increase in rides in May 2020, this could have been as a resul
 
 ![Growth in Ridership](images/Growth-in-ridership.png)
 
+## Ridership by Gender and Age group
+As of 30 June 2020, 57.68 % of riders are male whereas 25.90 % are female. The gender of 16.42 % of riders is unknown. Interesting to note that riders as young as 18 years had the highest trip duration followed by much older riders aged 51. The shows that both younger and older age groups enjoy keeping fit through cycling.   
+
+![Ridership by Gender and Age](images/Ridership-Dashboard-2.png)
+
 ## Popular Stations 
 As of 30 June 2020,Grove st Path is  the most popular station to start and end a journey .Chris hospital was the least popular station to start a journey based on the number of trips taken.   
 
 ![Popular stations](images/Top-10-bottom-stations.png)
 
-## Popular Stations Mapview
+## Popular Stations (Mapview)
+Grove st Path is the most popular station to start and end a journey based on the map view of stations with the highest number of trips indicated by the size of the circle.   
 
 ![Popular stations mapview](images/Popular-stations.png)
